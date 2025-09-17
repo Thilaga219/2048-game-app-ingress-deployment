@@ -53,7 +53,7 @@ Pre-requisites:
         `kubectl get deployment -n kube-system aws-load-balancer-controller`
 <img width="1905" height="936" alt="image" src="https://github.com/user-attachments/assets/bc995ec2-a96a-412a-af37-23624106423b" />
 
-        <img width="1846" height="736" alt="image" src="https://github.com/user-attachments/assets/473fb39f-dea5-426d-b4cb-3edb1443c9de" />
+<img width="1846" height="736" alt="image" src="https://github.com/user-attachments/assets/473fb39f-dea5-426d-b4cb-3edb1443c9de" />
 <img width="800" height="52" alt="image" src="https://github.com/user-attachments/assets/d99a3fd6-e7ec-4b15-aebf-ad964bbd0740" />
 <img width="800" height="73" alt="image" src="https://github.com/user-attachments/assets/60a85b4a-16da-4a7b-bba8-3b8cc84bc1ad" />
 <img width="1332" height="238" alt="image" src="https://github.com/user-attachments/assets/166fad23-db02-45f9-9501-4f7700eb9afc" />
