@@ -1,6 +1,6 @@
 # 2048-game-app-ingress-deployment
 Deploying a game based application using ingress 
-Pre-requisites:
+# Pre-requisites:
 1. kubectl - A command line tool for working with kubernetes. for more information, see Installing or updating kubectl.
 2. eksctl -  A command line tool for working with EKS clusters that automates many individual tasks. For more information, see Installing or updating.
 3. Get Access ID and secret Access keys from 
